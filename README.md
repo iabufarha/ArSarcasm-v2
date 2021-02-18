@@ -18,7 +18,7 @@ The dataset contains the following fields:
 
 
 ## Citation
-Please use the following citation if you use ArSarcasm:
+Please use the following citation if you use ArSarcasm-v2:
 ```
 @inproceedings{abufarha-etal-2021-arsarcasm-v2,
 title = "Overview of the WANLP 2021 Shared Task on Sarcasm and Sentiment Detection in Arabic",
