@@ -8,7 +8,7 @@
 The dataset contains the following fields:
 * `tweet`: the original tweet text.
 * `sarcasm`: boolean that indicates whether a tweet is sarcastic or not.
-* `sentiment`: the sentiment from the new annotation (positive, negative, neutral).
+* `sentiment`: the sentiment of the tweet (positive, negative, neutral).
 * `dialect`: the dialect used in the tweet, we used the 5 main regions in the Arab world, follows the labels and their meanings:
   * `msa`: modern standard Arabic.
   * `egypt`: the dialect of Egypt and Sudan.
